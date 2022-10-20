@@ -1,0 +1,116 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  
+  .header {
+    text-align: center;
+    padding: 10px;
+    background: lightcyan;
+    color: black;
+    border: solid;
+    border-bottom: none;
+    font-size: 30px;
+  }
+  
+  .header h1 {
+    font-size: 30px;
+  }
+  
+  .navbar {
+    background-color: skyblue;
+    overflow: hidden;
+    border: solid;
+    border-bottom: none;
+  }
+  
+  /* Style the navigation bar links */
+  .navbar a {
+    display: block; 
+    float: left;
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  /* Change color on hover/mouse-over */
+  .navbar a:hover {
+    color: ivory;
+  }
+  
+  .content{
+    display: flex;
+    height: auto;
+  }
+  
+  /* Sidebar/left column */
+  .side {
+    float: left;
+    width: 15%;
+    min-width: 150px;
+    background-color: lightcyan;
+    padding: 20px;
+    border: solid;
+    border-right: none;
+  }
+  
+  .side a{
+    text-decoration: none;
+    font-size: 17px;
+    display: flex;
+    flex-direction: column;
+    padding: 20px;
+    color: black;
+  }
+  
+  .side a:hover {
+    color: silver;
+  }
+  
+  /* Main column */
+  .main {
+    flex-grow: 1;
+    background-color: lightcyan;
+    padding: 20px;
+    border: solid;
+  }
+  
+  section{
+    display: grid;
+    grid-template-columns: 210px auto;
+    border: solid;
+  }
+  
+  
+  .description{
+    margin-right: 20px;
+    position: static;
+  }
+  
+  .description h2, .description p{
+    padding-left: 10px;
+  }
+  
+  table, th, td{
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 5px;
+  }
+  
+  table th{
+    font-size: 15px;
+  }
+  
+  ul li{
+    padding: 5px;
+  }
+  
+  .footer {
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+    color: ivory;
+    background: black;
+  }
