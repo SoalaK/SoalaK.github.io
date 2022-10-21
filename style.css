@@ -35,6 +35,7 @@ a:link {
 	font-weight: bold; 
 	text-decoration: none; 
 	color: #B7A5DF;
+	box-shadow: inset;
 	}
 a:visited { 
 	font-weight: bold; 
@@ -44,7 +45,6 @@ a:visited {
 a:hover, a:focus, a:active { 
 	text-decoration: underline; 
 	color: #9685BA;
-	box-shadow: inset;
 	}
 
 
