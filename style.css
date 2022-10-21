@@ -46,8 +46,6 @@ a:hover, a:focus, a:active {
 	color: #9685BA;
 	box-shadow: inset;
 	}
-abbr {
-	}
 
 
 /* specific divs */
@@ -96,7 +94,6 @@ header {
 	clear: both; 
 	margin: 20px 20px 20px 10px; 
 	width: 160px; 
-	float: left;
 	}
 .summary p {
 	font: italic 1.1em/2.2 georgia; 
