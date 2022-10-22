@@ -74,13 +74,12 @@ header h1 {
 
 	}
 header h2 { 
-	background: transparent url(http://csszengarden.com/001/h2.gif) no-repeat top left; 
 	margin-top: 58px; 
 	margin-bottom: 40px; 
   margin-left: 10px;
-  border: 20px;
-	width: 250px; 
-	height: 100px;
+  border: dotted;
+	width: 400px; 
+	height: 190px;
   background: pink;
 	}
 header {
@@ -124,13 +123,13 @@ footer a:link, footer a:visited {
 
 .sidebar {
 	margin-left: 600px; 
-	position: absolute; 
-	top: 0; 
-	right: 0;
+	position: fixed; 
+	top: 0px; 
+	right: 20px;
 	}
 .sidebar .wrapper { 
 	font: 10px verdana, sans-serif; 
-	background: transparent url(http://csszengarden.com/001/paper-bg.jpg) top left repeat-y; 
+	background: black; 
 	padding: 10px; 
 	margin-top: 150px; 
 	width: 130px; 
@@ -188,10 +187,11 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(http://csszengarden.com/001/cr2.gif) top left no-repeat; 
-	position: absolute; 
+	background: transparent url(https://wallpaper.dog/large/17255634.jpg) top left no-repeat; 
+  background-size: 148px 120px;
+	position: fixed; 
 	top: 40px; 
-	right: 0; 
+	right: 20px; 
 	width: 148px; 
 	height: 110px;
 	}
