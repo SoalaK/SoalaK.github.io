@@ -10,7 +10,6 @@
 /*<!--Artwork by Takashi Murakami-->*/
 
 /* basic elements */
-
 html {
 	margin: 0;
 	padding: 0;
@@ -193,8 +192,8 @@ footer a:link, footer a:visited {
 
 
 .extra1 {
-	background: transparent url(https://wallpaper.dog/large/17255634.jpg) top left no-repeat; 
-  background-size: 148px 120px;
+	background: transparent url(https://i.pinimg.com/originals/53/c4/6d/53c46d33d8be03306a890a8b9a8a6868.gif) top left no-repeat; 
+  background-size: 150px 120px;
 	position: fixed; 
 	top: 20px; 
 	right: 20px; 
