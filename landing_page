@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>BT21</title>
+  <link href="#" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+  <ul>
+    <li><a href="url">BT21 Personal Project</a></li>
+    <li><a href="url">CSS Zen Garden</a></li>
+  </ul>
+</body>
+
+</html>
