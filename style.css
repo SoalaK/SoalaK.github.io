@@ -51,6 +51,7 @@ a:hover, a:focus, a:active {
 	}
 abbr {
 	border-bottom: none;
+	text-decoration: none; 
 	}
 
 /* specific divs */
